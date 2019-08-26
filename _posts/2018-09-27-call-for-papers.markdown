@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: posts
 title:  "Call for Papers"
 date:   2019-09-26 9:00:00
 isStaticPost: false
