@@ -5,7 +5,7 @@
 .btn-primary {
     color: #fff !important;
     user-select: none;
-    text-transform: lowercase;
+    text-transform: uppercase;
     border: 0;
     background: $primary-color !important;
     &:hover, &:focus, &:active, &.active {
