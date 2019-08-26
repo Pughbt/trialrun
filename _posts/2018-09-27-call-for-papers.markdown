@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Call for Papers"
-date:   2018-09-26 9:00:00
+date:   2019-09-26 9:00:00
 isStaticPost: false
 ---
 SIGBPS workshop aims to extend the boundaries of research in business process management and
